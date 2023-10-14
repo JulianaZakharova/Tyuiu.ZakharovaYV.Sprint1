@@ -11,7 +11,7 @@ namespace Tyuiu.ZakharovaYV.Sprint1.Task0.Lib
     {
         public double Calculate()
         {
-            return 10 / (2 + 3);
+            return (15 / 5 * 4) + 1;
         }
     }
 }
