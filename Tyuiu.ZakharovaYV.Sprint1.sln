@@ -31,9 +31,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task4", "Task4", "{8253D067
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZakharovaYV.Sprint1.Task4.V19", "Tyuiu.ZakharovaYV.Sprint1.Task4.V19\Tyuiu.ZakharovaYV.Sprint1.Task4.V19.csproj", "{A4CDB9E1-13BF-4186-8683-D1A2CC41D6CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZakharovaYV.Sprint1.Task4.V19.Lib", "Tyuiu.ZakharovaYV.Sprint1.Task4.V19.Lib\Tyuiu.ZakharovaYV.Sprint1.Task4.V19.Lib.csproj", "{1513A846-CBCC-49DA-8767-EE4E8DFC89DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZakharovaYV.Sprint1.Task4.V.Lib", "Tyuiu.ZakharovaYV.Sprint1.Task4.V19.Lib\Tyuiu.ZakharovaYV.Sprint1.Task4.V.Lib.csproj", "{1513A846-CBCC-49DA-8767-EE4E8DFC89DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZakharovaYV.Sprint1.Task4.V19.Test", "Tyuiu.ZakharovaYV.Sprint1.Task4.V19.Test\Tyuiu.ZakharovaYV.Sprint1.Task4.V19.Test.csproj", "{1E2AF520-41B9-4995-A423-0F0CDD67C0D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZakharovaYV.Sprint1.Task4.V7.Test", "Tyuiu.ZakharovaYV.Sprint1.Task4.V19.Test\Tyuiu.ZakharovaYV.Sprint1.Task4.V7.Test.csproj", "{1E2AF520-41B9-4995-A423-0F0CDD67C0D4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3", "Task3", "{288B9D36-4E67-4B6F-A868-45A35D5B53E5}"
 EndProject
@@ -41,7 +41,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZakharovaYV.Sprint1.T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZakharovaYV.Sprint1.Task3.Test", "Tyuiu.ZakharovaYV.Sprint1.Task3.Test\Tyuiu.ZakharovaYV.Sprint1.Task3.Test.csproj", "{ED80AB50-A64A-4650-AA9E-501EA139DFBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZakharovaYV.Sprint1.Task3.Lib", "Tyuiu.ZakharovaYV.Sprint1.Task3.Lib.\Tyuiu.ZakharovaYV.Sprint1.Task3.Lib.csproj", "{FB6E2783-0D04-4C5A-8C0A-4533DFE886FF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZakharovaYV.Sprint1.Task3.Lib", "Tyuiu.ZakharovaYV.Sprint1.Task3.Lib\Tyuiu.ZakharovaYV.Sprint1.Task3.Lib.csproj", "{FB6E2783-0D04-4C5A-8C0A-4533DFE886FF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task5", "Task5", "{756B9DB7-5C7D-4097-8C2B-12FDD96E463C}"
 EndProject

@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Tyuiu.ZakharovaYV.Sprint1.Task1.Lib;
 
-namespace Tyuiu.ZakharovaYV.Sprint1.Task4.V19
+namespace Tyuiu.ZakharovaYV.Sprint1.Task4.V7
 {
     class Program
     {
@@ -15,40 +16,27 @@ namespace Tyuiu.ZakharovaYV.Sprint1.Task4.V19
             Console.Title = "Спринт #1 | Выполнила: Захарова Ю. В. | ПКТБ 23 - 1";
 
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Организация ввода/вывода в консольных приложениях                 *");
-            Console.WriteLine("* Задание #1                                                              *");
-            Console.WriteLine("* Вариант #16                                                              *");
-            Console.WriteLine("* Выполнила: Захарова Юлиана Владимировна   | ПКТБ-23-2                   *");
-            Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* Написать программу, которая апрашивает у пользователя исходные данные,  *");
-            Console.WriteLine("* вычисляет результат по формуле x*5*y+2*a и печатает его на экране.      *");
-            Console.WriteLine("* и печатает результат на экране.                                         *");
-            Console.WriteLine("*                                                                         *");
-            Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("*     x * 5 * y + 2 * a                                                   *");
+            Console.WriteLine("*    (1 + √xy / (x−3y)^2                                                  *");
 
 
-            double x, y, a;
-
+            int x, y;
 
             Console.WriteLine("Введите значение x:");
-            x = Convert.ToDouble(Console.ReadLine());
+            x = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Введите значение y:");
-            y = Convert.ToDouble(Console.ReadLine());
+            y = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Введите значение a:");
-            a = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine(ds.Calculate(x, y, a));
+
+            Console.WriteLine(" (1 + √ x * y / (x − 3 * y) ^ 2  = " + ds.Calculate(x, y));
+
 
             Console.ReadLine();
         }
