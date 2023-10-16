@@ -36,6 +36,7 @@ namespace Tyuiu.ZakharovaYV.Sprint1.Task7.V13
             Console.WriteLine(ds.Calculate(x, y));
             Console.ReadKey();
 
+
         }
     }
 }
