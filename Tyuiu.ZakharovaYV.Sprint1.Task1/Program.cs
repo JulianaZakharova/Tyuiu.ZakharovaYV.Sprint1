@@ -18,7 +18,7 @@ namespace Tyuiu.ZakharovaYV.Sprint1.Task1
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Организация ввода/вывода в консольных приложениях                 *");
             Console.WriteLine("* Задание #1                                                              *");
-            Console.WriteLine("* Вариант #16                                                              *");
+            Console.WriteLine("* Вариант #16                                                             *");
             Console.WriteLine("* Выполнила: Захарова Юлиана Владимировна   | ПКТБ-23-2                   *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
